@@ -2,3 +2,5 @@
 
 # Course Materials
 -Python : https://github.com/krishnaik06/Complete-Python-Bootcamp
+-Anaconde/Jupyter download link: https://www.youtube.com/watch?v=UTqOXwAi1pE
+
