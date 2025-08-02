@@ -3,4 +3,6 @@
 # Course Materials
 -Python : https://github.com/krishnaik06/Complete-Python-Bootcamp
 -Anaconda/Jupyter download link: https://www.youtube.com/watch?v=UTqOXwAi1pE
+-Set Env variable for conda: https://www.youtube.com/watch?v=zFKD2Q9m_nQ
+
 
