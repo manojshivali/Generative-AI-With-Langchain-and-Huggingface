@@ -57,6 +57,21 @@ In Anaconda, default jupyter notebook has ipykernel already integrated to it.
 (base) manoj@MANOJs-MacBook-Air VSCode % python --version  
 Python 3.13.9  
 
+https://github.com/krishnaik06/Complete-Python-Bootcamp/tree/main/1-Python%20Basics  
+
+##Single line commnet   
+
+'''  
+Multiline comments  
+'''  
+
+Need to resume:  
+https://github.com/krishnaik06/Complete-Python-Bootcamp/blob/main/1-Python%20Basics/1.0-basic.ipynb  
+from 3.2-Tuples.ipynb
+
+
+
+
 
 
 
