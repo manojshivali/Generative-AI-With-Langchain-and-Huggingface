@@ -44,6 +44,8 @@ Running app.py file:
 /Users/manoj/MJ_Soft/Generative_AI/VSCode  
 (/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode % python app.py  
 2  
+Create test.ipynb file under folder 1_Python_Basics  
+Select Kernel -> venv(Python 3.12.0)  
 
 
 
