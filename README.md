@@ -52,6 +52,12 @@ So we put below command in VSCode terminal:
 (/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode % pip install ipykernel  
 Now Code cell with "1+1" will work  
 ipykernel package provides kernel to this specific Jupyter notebook which will be responsible in executing the python code  
+In Anaconda, default jupyter notebook has ipykernel already integrated to it.  
+.py file has already that envirionment setup so we don't need to setup again.  
+(base) manoj@MANOJs-MacBook-Air VSCode % python --version  
+Python 3.13.9  
+
+
 
 
 
