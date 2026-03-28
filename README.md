@@ -30,7 +30,7 @@
   GROQ AI Infrastructure -> LPU Engine(Better than GPU)
 
 Steps  
-Install VSCode for MAC M4.    
+Install Anaconda and VSCode for MAC M4.    
 Creating env:  
 Open VSCode Terminal by pressing ctrl+`    
 (base) manoj@MANOJs-MacBook-Air VSCode % pwd  
@@ -50,6 +50,9 @@ We have two things in .ipynb file : Code cell and Markdown cell(Press Shift+Ente
 If we put "1+1" in Code cell and try to run then it will show: requires the ipykernel package.  
 So we put below command in VSCode terminal:  
 (/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode % pip install ipykernel  
+Now Code cell with "1+1" will work  
+ipykernel package provides kernel to this specific Jupyter notebook which will be responsible in executing the python code  
+
 
 
 
