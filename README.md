@@ -39,6 +39,12 @@ Open VSCode Terminal by pressing ctrl+`
 Activating env:  
 (base) manoj@MANOJs-MacBook-Air VSCode % conda activate venv/    
 (/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode %  
+Running app.py file:  
+(/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode % pwd  
+/Users/manoj/MJ_Soft/Generative_AI/VSCode  
+(/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode % python app.py  
+2  
+
 
 
 
