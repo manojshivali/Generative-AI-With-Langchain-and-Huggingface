@@ -6,7 +6,7 @@
 **-Set Env variable for conda:** https://www.youtube.com/watch?v=zFKD2Q9m_nQ    **=> Not needed in MAC M4**  
 **-Install VSCode for MAC M4**
 ## Generative AI Application with Langchain:  
-## Topic covering:  
+## Topics covering:  
 1) Python Programming => Basic to Advance    
 2) NLP in Deep Learning => RNN, LSTM RNN, GRU RNN, Bidirectional RNN, Encoder Decoder, Attention Mechanism, Transformer, BERT ==> These all are Basic Building block for "LLM Models" => Generative AI    
 3) Langchain Ecosystem => Generative AI Web framework => Paid LLM, Multi Model, Open Source LLM, Agents, Chat with SQL, Vector Database, Retrivers, Chain, Text summarization, Chatbots with chat message history  
