@@ -66,7 +66,7 @@ Multiline comments
 '''  
 
 Need to resume:  
-https://github.com/krishnaik06/Complete-Python-Bootcamp/blob/main/1-Python%20Basics/1.0-basic.ipynb  
+https://github.com/krishnaik06/Complete-Python-Bootcamp/tree/main/3-Data%20Structures   
 from 3.2-Tuples.ipynb
 
 
