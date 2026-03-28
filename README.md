@@ -29,8 +29,19 @@
   
   GROQ AI Infrastructure -> LPU Engine(Better than GPU)
 
-Steps
-Install VSCode for MAC M4.
+Steps  
+Install VSCode for MAC M4.    
+Creating env:  
+Open VSCode Terminal by pressing ctrl+`    
+(base) manoj@MANOJs-MacBook-Air VSCode % pwd  
+/Users/manoj/MJ_Soft/Generative_AI/VSCode  
+(base) manoj@MANOJs-MacBook-Air VSCode % conda create -p venv python==3.12    
+Activating env:  
+(base) manoj@MANOJs-MacBook-Air VSCode % conda activate venv/    
+(/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode %  
+
+
+
 
 
 
