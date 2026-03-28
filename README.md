@@ -46,6 +46,12 @@ Running app.py file:
 2  
 Create test.ipynb file under folder 1_Python_Basics  
 Select Kernel -> venv(Python 3.12.0)  
+We have two things in .ipynb file : Code cell and Markdown cell(Press Shift+Enter to run Markdown)  
+If we put "1+1" in Code cell and try to run then it will show: requires the ipykernel package.  
+So we put below command in VSCode terminal:  
+(/Users/manoj/MJ_Soft/Generative_AI/VSCode/venv) manoj@MANOJs-MacBook-Air VSCode % pip install ipykernel  
+
+
 
 
 
