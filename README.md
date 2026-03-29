@@ -66,8 +66,9 @@ Multiline comments
 '''  
 
 Need to resume:  
-https://github.com/krishnaik06/Complete-Python-Bootcamp/tree/main/3-Data%20Structures   
-from 3.2-Tuples.ipynb
+https://github.com/krishnaik06/Complete-Python-Bootcamp/tree/main/4-Functions  
+
+from 4.3 Lambda.ipynb  
 
 
 
