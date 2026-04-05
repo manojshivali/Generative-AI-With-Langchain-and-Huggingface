@@ -69,6 +69,8 @@ Always do conda acitvate before use/install:
 conda activate venv/  
 pip install -r Streamlit/requirements.txt  
 
+streamlit run app.py  
+
 Need to resume:  
 
 
