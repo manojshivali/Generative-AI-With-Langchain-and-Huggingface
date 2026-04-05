@@ -66,9 +66,7 @@ Multiline comments
 '''  
 
 Need to resume:  
-https://github.com/krishnaik06/Complete-Python-Bootcamp/tree/main/4-Functions  
 
-from 4.3 Lambda.ipynb  
 
 
 
