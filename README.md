@@ -65,6 +65,10 @@ https://github.com/krishnaik06/Complete-Python-Bootcamp/tree/main/1-Python%20Bas
 Multiline comments  
 '''  
 
+Always do conda acitvate before use/install:  
+conda activate venv/  
+pip install -r Streamlit/requirements.txt  
+
 Need to resume:  
 
 
