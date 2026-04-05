@@ -83,8 +83,20 @@ e) Text preproceesing: Input Text -> Vectors : Word Embeddings  ==> Deep Learnin
 f) TRANSFORMERS  ==> Deep Learning (TensorFlow, PyTorch)  
 g) BERT(Most accurate) ==> Deep Learning (TensorFlow, PyTorch)  
 
+Tokenization in NLP:  
+a) Corpus: Paragraph    
+b) Documents: Sentences  
+c) Vocabulary: Unique Words  
+d) Words   
 
-Need to resume:  
+Tokenization: Corpus(Paragraph) ---> Tokens(Sentences/Documents)  
+            : Sentences/Documents ---> Words  
+
+
+
+
+
+Need to resume: From Video Lecture 38  
 
 
 
