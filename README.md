@@ -90,7 +90,7 @@ c) Vocabulary: Unique Words
 d) Words   
 
 Tokenization: Corpus(Paragraph) ---> Tokens(Sentences/Documents)  
-            : Sentences/Documents ---> Words  
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;: Sentences/Documents ---> Words  
 
 
 
