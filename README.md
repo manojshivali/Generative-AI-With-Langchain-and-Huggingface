@@ -71,6 +71,19 @@ pip install -r Streamlit/requirements.txt
 
 streamlit run app.py  
 
+## Natural Language Processing In Machine Learning  
+ML : a) Supervised b) Unsupervised  
+Supervised: a) Classification  b) Regression  
+Roadmap of NLP:  
+a) Cleaning the input: Text preprocessing : Tokenization, Lemmatization, Stemming, Stopwords  
+b) Text preprocessing: Input Text -> Vectors : BOW (Bag Of Words), TF-IDF, Unigrams, Bigrams  
+c) Text preproceesing: Input Text -> Vectors : Word2Vec, AvgWord2Vec  
+d) Text preproceesing: Deep Learning: Neural Networks: RNN, LSTM RNN, GRU RNN  
+e) Text preproceesing: Input Text -> Vectors : Word Embeddings  
+f) TRANSFORMERS  
+g) BERT 
+
+
 Need to resume:  
 
 
