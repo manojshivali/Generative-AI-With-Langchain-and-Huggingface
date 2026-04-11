@@ -96,11 +96,26 @@ NLTK Library(Open Source)
 Spacy Library(Open Source)  
 Open Anaconda Navigator=> Jupyter Notebook=> Create new file as 4_NLTK.ipynb  
 Reference=>/Users/manoj/MJ_Soft/Generative_AI/Resources/4-Tokenization+Example+Using+NLTK.ipynb  
+My file=> /Users/manoj/MJ_Soft/Generative_AI/Python_Jupyter_Notebook/4_NLTK.ipynb  
 We use """   """ for multiline comment.  
 
+Stemming:  
+Stemming is the process of reducing a word to its word stem that affixes to suffixes and prefixes or to the roots of words known as a lemma. Stemming is important in natural language understanding (NLU) and natural language processing (NLP).  
+Reference file: /Users/manoj/MJ_Soft/Generative_AI/Resources/5-Stemming+And+Its+Types-+Text+Preprocessing.ipynb  
+My file: /Users/manoj/MJ_Soft/Generative_AI/Python_Jupyter_Notebook/5_Stemming.ipynb  
+
+Lemmatizaton:    
+Resource: /Users/manoj/MJ_Soft/Generative_AI/Resources/6-Lemmatization-+Text+Preprocessing.ipynb    
+My file: /Users/manoj/MJ_Soft/Generative_AI/Python_Jupyter_Notebook/6_Lemmatization.ipynb  
+
+TextPreProcessing:  
+Resource: /Users/manoj/MJ_Soft/Generative_AI/Resources/7-Text+Preprocessing-Stopwords+With+NLTK.ipynb  
+My file: /Users/manoj/MJ_Soft/Generative_AI/Python_Jupyter_Notebook/7_Text_Preprocessing.ipynb  
 
 
-Need to resume: From Video Lecture 39  
+
+
+Need to resume: From Video Lecture 42    
 
 
 
