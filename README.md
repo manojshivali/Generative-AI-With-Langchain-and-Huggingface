@@ -92,11 +92,15 @@ d) Words
 Tokenization: Corpus(Paragraph) ---> Tokens(Sentences/Documents)  
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;: Sentences/Documents ---> Words  
 
+NLTK Library(Open Source)  
+Spacy Library(Open Source)  
+Open Anaconda Navigator=> Jupyter Notebook=> Create new file as 4_NLTK.ipynb  
+Reference=>/Users/manoj/MJ_Soft/Generative_AI/Resources/4-Tokenization+Example+Using+NLTK.ipynb  
+We use """   """ for multiline comment.  
 
 
 
-
-Need to resume: From Video Lecture 38  
+Need to resume: From Video Lecture 39  
 
 
 
